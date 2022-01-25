@@ -6,7 +6,7 @@ a hazánknban használatos SI mértékekre.
 
 A program szabadon felhasználható, tovább bővíthető, ha valaki számára érdekes.
 
-Az out/artifacts/Mértékegységváltó_1_0_jar/ mappában található: Mértékegységváltó 1.0.jar
+A /dist mappában található: Mértékegységváltó 1.0.jar
 futtatható Java állományt másoljuk a gépünkre tetszőleges helyre.
 
 Az ikonra kattintva elindíthatjuk a programot, vagy Windows parancssorban, illetve Linux
